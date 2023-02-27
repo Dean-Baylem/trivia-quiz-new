@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dean-baylem-portfolio/static/css/main.497f07ce.css",
+    "main.js": "/dean-baylem-portfolio/static/js/main.1fd5bae1.js",
+    "index.html": "/dean-baylem-portfolio/index.html",
+    "main.497f07ce.css.map": "/dean-baylem-portfolio/static/css/main.497f07ce.css.map",
+    "main.1fd5bae1.js.map": "/dean-baylem-portfolio/static/js/main.1fd5bae1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.497f07ce.css",
+    "static/js/main.1fd5bae1.js"
+  ]
+}
