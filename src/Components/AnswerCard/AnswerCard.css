@@ -1,0 +1,71 @@
+.answer-btn{
+font-weight: 200;
+font-size: 32px;
+color: #000000;
+background-color: #46C2CB;
+padding: 10px 30px;
+border: none;
+box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+border-radius: 20px;
+transition : 1336ms;
+transform: translateY(0);
+display: flex;
+flex-direction: row;
+align-items: center;
+cursor: pointer;
+justify-content: center;
+margin: 2% 10%;
+width: -webkit-fill-available;
+}
+
+.answer-btn:hover{
+
+transition : 1336ms;
+padding: 10px 27px;
+transform : translateY(-0px);
+background-color: #fff;
+color: #404258;
+border: none;
+}
+
+
+.correct-answer-btn{
+font-weight: 200;
+font-size: 32px;
+color: #000000;
+background-color: #16FF00;
+padding: 10px 30px;
+border: none;
+box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+border-radius: 20px;
+transition : 1336ms;
+transform: translateY(0);
+display: flex;
+flex-direction: row;
+align-items: center;
+cursor: pointer;
+justify-content: center;
+margin: 2% 10%;
+width: -webkit-fill-available;
+}
+
+
+.incorrect-answer-btn{
+font-weight: 200;
+font-size: 32px;
+color: #000000;
+background-color: #FF1E1E;
+padding: 10px 30px;
+border: none;
+box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+border-radius: 20px;
+transition : 1336ms;
+transform: translateY(0);
+display: flex;
+flex-direction: row;
+align-items: center;
+cursor: pointer;
+justify-content: center;
+margin: 2% 10%;
+width: -webkit-fill-available;
+}

@@ -1,0 +1,43 @@
+
+/* Difficulty Card Before Selection */
+.difficulty-card {
+  display: grid;
+  grid-area: 2 / auto;
+}
+
+/* Difficulty Card After Selection */
+.difficulty-card-after {
+  align-content: center;
+}
+
+.diff-btn{
+font-weight: 200;
+font-size: 1.75rem;
+color: #000000;
+background-color: #CEEDC7;
+background-image: url("https://www.transparenttextures.com/patterns/cross-scratches.png");
+border: none;
+box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+border-radius: 20px;
+transition : 1336ms;
+transform: translateY(0);
+display: flex;
+flex-direction: row;
+align-items: center;
+cursor: pointer;
+justify-content: center;
+margin: 2%;
+}
+
+.diff-btn:hover{
+
+transition : 1336ms;
+transform : translateY(-0px);
+background-color: #fff;
+color: #000000;
+border: none;
+}
+
+.no-hover {
+  pointer-events: none;
+}
